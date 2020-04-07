@@ -1,7 +1,7 @@
 # Porto-Seguro-s-Safe-Driver-Prediction
 My solution for the Porto Seguro's Safe Driver Prediction Challange
 
-(https://medium.com/@vagadia49/porto-seguros-safe-driver-prediction-an-ensemble-approach-cec32eaad218)
+https://medium.com/@vagadia49/porto-seguros-safe-driver-prediction-an-ensemble-approach-cec32eaad218
 
 ![image](image.jpg)
 
